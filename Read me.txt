@@ -1,0 +1,1 @@
+Game is in dist/earth maze/Earth_maze.exe
